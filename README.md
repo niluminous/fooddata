@@ -47,7 +47,7 @@ This repository provides a curated list of datasets for research in the food dom
 - **Description**:  
   FooDI-ML is a multilingual visio-linguistic dataset containing **2.8 million images** and **9.5 million text samples**, spanning **37 countries** and **33 languages**. It is tailored for text-image retrieval and conditional image generation.
 - **Paper**: [Link to Paper](https://arxiv.org/pdf/2110.02035)  
-  Citation: Amat Olondriz, D., Palau Puigdevall, P., & Salvador Palau, A. (n.d.). FooDI-ML: A Large Multi-Language Dataset of Food, Drinks, and Groceries Images and Descriptions. Glovoapp. 
+  Citation: Amat Olondriz, D., Palau Puigdevall, P., & Salvador Palau, A. (n.d.). FooDI-ML: A Large Multi-Language Dataset of Food, Drinks, and Groceries Images and Descriptions. Glovoapp.
 - **Dataset**: [Link to Dataset](https://github.com/Glovo/foodi-ml-dataset)  
 
 #### **Key Features**:
@@ -103,6 +103,62 @@ This repository provides a curated list of datasets for research in the food dom
 
 ---
 
+### **FlavorDB2**
+- **Description**:  
+  A database of **25,595 flavor molecules**, **936 ingredients**, and **34 ingredient categories**, providing molecular flavor profiles and sensory attributes.
+- **Paper**: [Kumar et al. (2022)](https://arxiv.org/pdf/2205.05451)  
+  Citation: Goel M, Grover N, Batra D, Garg N, Tuwani R, Sethupathy A, Bagler G. FlavorDB2: An updated database of flavor molecules. J Food Sci. 2024 Nov;89(11):7076-7082. doi: 10.1111/1750-3841.17298. Epub 2024 Sep 24. PMID: 39318152
+- **Dataset**: [Link to Dataset](https://cosylab.iiitd.edu.in/flavordb2/)  
+
+#### **Key Features**:
+- **Image Data**: No  
+- **Nutritional Data**: No  
+- **Flavor or Taste Data**: Yes  
+  - Molecular flavor profiles  
+  - Taste/aroma threshold values  
+- **Recipe Data**: No  
+- **Interactions Dataset**: No  
+
+---
+
+### **FoodOrdering Dataset**
+- **Description**:  
+  The FoodOrdering Dataset is a collection of **synthetic and human-generated food order examples** designed for building task-oriented systems (like virtual assistants) in the food-ordering domain. It provides annotated text data for parsing user food orders into structured representations (intents, slots, and values). The dataset is specifically designed to evaluate **cross-schema parsing** and **zero-shot learning** across different restaurant menus.
+- **Paper**: [Link to Paper](https://arxiv.org/pdf/2206.05352)  
+  Citation: [Rubino, M., Guenon des Mesnards, N., Shah, U., Jiang, N., Sun, W., & Arkoudas, K. (2022). Cross-TOP: Zero-Shot Cross-Schema Task-Oriented Parsing. arXiv preprint arXiv:2206.05352. https://arxiv.org/abs/2206.05352.]
+- **Dataset**: [Link to Dataset](https://github.com/amazon-science/food-ordering-semantic-parsing-dataset)  
+
+#### **Key Features**:
+- **Image Data**: No  
+- **Nutritional Data**: No  
+- **Flavor or Taste Data**: No  
+- **Textual Data**: Yes  
+  - Includes **utterances** of food orders with semantic parsing annotations.
+  - Examples: Orders for pizzas, sandwiches, drinks, and sides with detailed slot value annotations for menu items, sizes, toppings, and quantities.
+- **Interactions Dataset**: No  
+
+---
+
+### **RecipeDB**
+- **Description**:  
+  A structured database of **118,171 recipes**, integrating recipes with **nutritional profiles**, **flavor molecules**, and **health associations**.
+- **Paper**: [Sethi et al. (2020)](https://academic.oup.com/database/article/doi/10.1093/database/baaa077/6006228)  
+  Citation: Devansh Batra, Nirav Diwan, Utkarsh Upadhyay, Jushaan Singh Kalra, Tript Sharma, Aman Kumar Sharma, Dheeraj Khanna, Jaspreet Singh Marwah, Srilakshmi Kalathil, Navjot Singh, Rudraksh Tuwani, Ganesh Bagler, RecipeDB: a resource for exploring recipes, Database, Volume 2020, 2020, baaa077, https://doi.org/10.1093/database/baaa077
+- **Dataset**: [Link to Dataset](https://cosylab.iiitd.edu.in/recipedb/)  
+
+#### **Key Features**:
+- **Image Data**: No  
+- **Nutritional Data**: Yes  
+- **Flavor or Taste Data**: Yes  
+- **Recipe Data**: Yes  
+  - Title  
+  - List of ingredients (with quantity, unit, state, size, and temperature)  
+  - Instructions  
+  - Cooking processes and dietary styles  
+- **Interactions Dataset**: No  
+
+---
+
 ### **HUMMUS Dataset**
 - **Description**:  
   The HUMMUS dataset combines **507,335 recipes** and **1.9 million user-recipe interactions**, enriched with health-awareness metrics and semantic data linking for hybrid food recommendations. The dataset enables personalized, explainable, and health-conscious recipe suggestions.
@@ -122,4 +178,3 @@ This repository provides a curated list of datasets for research in the food dom
   - 1.9 million user-recipe interactions  
 
 ---
-
