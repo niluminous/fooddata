@@ -29,7 +29,7 @@ This repository provides a curated list of datasets for research in the food dom
 - **Description**:  
   RecipeNLG is a dataset with **2.2 million recipes**, derived from Recipe1M+ and additional data scraped from cooking websites. It is designed for semi-structured text generation tasks like recipe generation, leveraging Named Entity Recognition (NER) for extracting food entities.
 - **Paper**: [Link to Paper](https://aclanthology.org/2020.inlg-1.4.pdf)  
-  Citation: Bieniecki, Wojciech, et al. "RecipeNLG: A Cooking Recipes Dataset for Semi-Structured Text Generation." *INLG*, 2020.  
+  Citation: Bień, M., Gilski, M., Maciejewska, M., Taisner, W., Wiśniewski, D., & Ławrynowicz, A. (2020). RecipeNLG: A Cooking Recipes Dataset for Semi-Structured Text Generation. Proceedings of the 13th International Conference on Natural Language Generation, 22–28. Association for Computational Linguistics.
 - **Dataset**: [Link to Dataset](https://recipenlg.cs.put.poznan.pl/)  
 
 #### **Key Features**:
