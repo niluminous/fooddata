@@ -107,7 +107,7 @@ This repository provides a curated list of datasets for research in the food dom
 - **Description**:  
   The HUMMUS dataset combines **507,335 recipes** and **1.9 million user-recipe interactions**, enriched with health-awareness metrics and semantic data linking for hybrid food recommendations. The dataset enables personalized, explainable, and health-conscious recipe suggestions.
 - **Paper**: [Link to Paper](https://hal.science/hal-04220182/document)  
-  Citation: Bordea, Georgeta, et al. "HUMMUS: A Linked, Healthiness-Aware, User-Centered, and Argument-Enabling Recipe Dataset for Recommendation." *HAL Archives*, 2023.  
+  Citation: Felix Bölz, Diana Nurbakova, Sylvie Calabretto, Lionel Brunie, Armin Gerl, and Harald Kosch. "HUMMUS: A Linked, Healthiness-Aware, User-centered and Argument-Enabling Recipe Data Set for Recommendation." Proceedings of the 17th ACM Conference on Recommender Systems (RecSys ’23), September 18–22, 2023, Singapore.
 - **Dataset**: [Link to Dataset](https://gitlab.com/felix134/connected-recipe-data-set)  
 
 #### **Key Features**:
