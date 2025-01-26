@@ -47,7 +47,7 @@ This repository provides a curated list of datasets for research in the food dom
 - **Description**:  
   FooDI-ML is a multilingual visio-linguistic dataset containing **2.8 million images** and **9.5 million text samples**, spanning **37 countries** and **33 languages**. It is tailored for text-image retrieval and conditional image generation.
 - **Paper**: [Link to Paper](https://arxiv.org/pdf/2110.02035)  
-  Citation: Martinez-Martin, Eduardo, et al. "FooDI-ML: A Large-Scale Multilingual Dataset for Food and Grocery Applications." *ArXiv*, 2021.  
+  Citation: Amat Olondriz, D., Palau Puigdevall, P., & Salvador Palau, A. (n.d.). FooDI-ML: A Large Multi-Language Dataset of Food, Drinks, and Groceries Images and Descriptions. Glovoapp. 
 - **Dataset**: [Link to Dataset](https://github.com/Glovo/foodi-ml-dataset)  
 
 #### **Key Features**:
@@ -86,7 +86,7 @@ This repository provides a curated list of datasets for research in the food dom
 - **Description**:  
   Contains **230,000 recipes** and **1.1 million user-recipe interactions (reviews)** spanning **18 years (2000–2018)**. It is designed for personalized recipe generation and recommendation.
 - **Paper**: [Link to Paper](https://www.aclweb.org/anthology/D19-1613/)  
-  Citation: Majumder, Bodhisattwa Prasad, et al. "Generating Personalized Recipe Recommendations from a Food-Oriented User Dataset." *EMNLP*, 2019.  
+  Citation: Bodhisattwa Prasad Majumder, Shuyang Li, Jianmo Ni, and Julian McAuley. 2019. Generating Personalized Recipes from Historical User Preferences. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), pages 5976–5982, Hong Kong, China. Association for Computational Linguistics.
 - **Dataset**: [Link to Dataset](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions)  
 
 #### **Key Features**:
