@@ -80,7 +80,8 @@ This repository provides a curated list of datasets for research in the **food d
 - **Flavor or Taste Data**: ❌  
 - **Recipe Data**: ✔️  
   - Title  
-  - List of ingredients (multi-hot encoding)  
+  - List of ingredients
+  - Instructions  
   - Recipe category  
 
 ---
@@ -100,8 +101,10 @@ This repository provides a curated list of datasets for research in the **food d
 - **Flavor or Taste Data**: ❌  
 - **Recipe Data**: ✔️  
   - Title  
-  - Ingredients  
-  - Step-by-step instructions  
+  - Ingredients
+  - Tags
+  - Step-by-step instructions
+     
 
 ---
 
